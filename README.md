@@ -5,4 +5,5 @@ Continuous database availability
 Automatic failover  
 Data redundancy across nodes  
 Zero/minimal downtime for production systems
+
 This Invloves three nodes configutation in which are working in sync mode and one is for disaster recovery and working in asynch mode.
